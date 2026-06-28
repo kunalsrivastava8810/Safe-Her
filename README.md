@@ -31,3 +31,7 @@ OPENAI_MODEL=gpt-4o-mini
 ```
 
 Without these values, SafeHer still runs with in-memory reporting and rule-based guidance for demos.
+=======
+# Safe-Her
+AI-powered Women Cyber Safety Platform for awareness, phishing detection, incident reporting, cyber risk assessment, and digital safety education.
+>>>>>>> cb609b1732ab951d2b4de9790b240d49ace7d655
